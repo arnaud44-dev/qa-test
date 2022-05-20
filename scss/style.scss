@@ -1,0 +1,62 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+}
+.row{
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.container {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+// boutons
+.btn-success{
+    padding:10px;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn-primary{
+    padding:10px;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn-warning{
+    padding:10px;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn-danger{
+    padding:10px;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+// 
+$color1 : #28a745;
+$color2 : #676aff;
+$color3 : #da5f0e;
+
+// media queries (changement de css selon la taille de l'écran)
+@import "../scss/_mobile";
+@import "../scss/_tablette";
+@import "../scss/_desktop";
+// footer
+@import "../scss/_footer";
+@import "../scss/_admin_footer";
+// factures
+@import "../scss/_bill";
