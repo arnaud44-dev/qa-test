@@ -1,0 +1,10 @@
+{
+  "openapi" : "3.0.1",
+  "info" : {
+    "title" : "899a1d1cf759449c",
+    "description" : "No description",
+    "contact" : { },
+    "version" : "1.0.0"
+  },
+  "paths" : { }
+}
