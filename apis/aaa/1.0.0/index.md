@@ -22,16 +22,16 @@ api-tryin: |-
         "type" : "Project",
         "name" : "aaa 1.0.0",
         "description" : "No description",
-        "importedFrom" : "99587202-bf4a-4ae3-96a6-56c29da77521"
+        "importedFrom" : "0ae46e77-5a42-41e9-85f8-3ce90eb38780"
       }
     } ],
     "environments" : [ {
       "name" : "aaa 1.0.0",
       "importedFrom" : {
-        "projectId" : "99587202-bf4a-4ae3-96a6-56c29da77521"
+        "projectId" : "0ae46e77-5a42-41e9-85f8-3ce90eb38780"
       },
       "variables" : {
-        "94e4cfa5-872e-43a3-92ff-69ba4043fed4" : {
+        "e0c12fe3-53b8-4021-8ebd-94495fffc8cf" : {
           "name" : "BaseUrl",
           "value" : "https://example.com",
           "enabled" : true,
