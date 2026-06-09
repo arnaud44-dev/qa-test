@@ -1,0 +1,13 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : "No description",
+    "version" : "1.0.0",
+    "title" : "23e62a78de7177f3",
+    "termsOfService" : "",
+    "contact" : { }
+  },
+  "consumes" : [ "application/json" ],
+  "produces" : [ "application/json" ],
+  "paths" : { }
+}
